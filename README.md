@@ -1,4 +1,4 @@
-# Solution for Towers of Hanoi using Java
+# Solution for Towers of Hanoi using Python
 
 
 After cloning this repository and cd into the cd towers_of_hanoi run:
